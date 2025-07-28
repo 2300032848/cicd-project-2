@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/SaiManikanta1306/cicdproject2.git",
+  "homepage": "https://github.com/2300032848/cicd-project-2.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

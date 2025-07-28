@@ -33,8 +33,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name "SaiManikanta1306"
-          git config --global user.email "saimanikantagudipudi@gmail.com"
+          git config --global user.name "2300032848"
+          git config --global user.email "2300032848@kluniversity.in"
 
       - name: Deploy to GitHub Pages
         env:
